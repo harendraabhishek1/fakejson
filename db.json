@@ -1,8 +1,25 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1111111111111" },
-    { "id": 2, "title": "Post 2222222222" },
-    { "id": 3, "title": "Post 333333333" }
+    {
+    "empid": 1,
+    "id": 4,
+    "firstname": "Ram",
+    "lastname": "Kumar",
+    "email": "ram@gmail.com",
+    "mobile": "12345678910",
+    "address": "Ramdih",
+    "birth": "17-12-199"
+  },
+  {
+    "empid": 2,
+    "id": 5,
+    "firstname": "Rajesh",
+    "lastname": "Kumar",
+    "email": "rajesh@gmail.com",
+    "mobile": "123456789",
+    "address": "Rajesh Nagar",
+    "birth": "25-12-1222"
+  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
