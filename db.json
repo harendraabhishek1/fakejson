@@ -1,24 +1,34 @@
 {
   "posts": [
-    {
-    "empid": 1,
-    "id": 4,
-    "firstname": "Ram",
-    "lastname": "Kumar",
-    "email": "ram@gmail.com",
-    "mobile": "12345678910",
-    "address": "Ramdih",
-    "birth": "17-12-199"
+   {
+    "empid": 200,
+    "id": 11,
+    "firstname": "kejrhfdk",
+    "lastname": "das",
+    "email": "kdjf@gmail.com",
+    "mobile": 9898,
+    "address": "hfjds",
+    "birth": "2021-12-15"
   },
   {
-    "empid": 2,
-    "id": 5,
-    "firstname": "Rajesh",
-    "lastname": "Kumar",
-    "email": "rajesh@gmail.com",
-    "mobile": "123456789",
-    "address": "Rajesh Nagar",
-    "birth": "25-12-1222"
+    "empid": 4445,
+    "id": 14,
+    "firstname": "545",
+    "lastname": "",
+    "email": "54@GMAIL.COM",
+    "mobile": 545,
+    "address": ";JKL",
+    "birth": "2021-12-15"
+  },
+  {
+    "empid": 123456,
+    "id": 15,
+    "firstname": "Amir",
+    "lastname": "kumar",
+    "email": "amir@gmail.com",
+    "mobile": 8789369732,
+    "address": "Amirdih",
+    "birth": "2021-12-15"
   }
   ],
   "comments": [
